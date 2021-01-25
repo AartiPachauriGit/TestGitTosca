@@ -38,3 +38,37 @@
 [Info] 01/22/2021 10:06:40 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
 [Info] 01/22/2021 10:06:41 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
 [Info] 01/22/2021 10:06:42 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 01/25/2021 12:15:18 AM: 3/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 01/25/2021 12:15:19 AM: 17/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 01/25/2021 12:15:20 AM: 31/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 01/25/2021 12:15:21 AM: 45/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 01/25/2021 12:15:22 AM: 58/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 01/25/2021 12:15:23 AM: 72/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 01/25/2021 12:15:24 AM: 86/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 01/25/2021 12:15:25 AM: Compacting started
+[Info] 01/25/2021 12:15:25 AM: Compacting Workspace - Defragmentation finished in 00:00:00.2995382, database size: 532480
+[Info] 01/25/2021 12:15:25 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 01/25/2021 12:15:25 AM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0360087, database size: 532480
+[Info] 01/25/2021 12:15:25 AM: Compacting finished
+[Info] 01/25/2021 12:15:26 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 01/25/2021 12:15:27 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 01/25/2021 12:15:28 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 01/25/2021 12:15:29 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 01/25/2021 12:15:30 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 01/25/2021 12:35:25 AM: 3/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 01/25/2021 12:35:25 AM: 17/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 01/25/2021 12:35:26 AM: 30/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 01/25/2021 12:35:27 AM: 43/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 01/25/2021 12:35:28 AM: 57/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 01/25/2021 12:35:29 AM: 70/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 01/25/2021 12:35:30 AM: 84/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 01/25/2021 12:35:31 AM: Compacting started
+[Info] 01/25/2021 12:35:31 AM: 97/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 01/25/2021 12:35:31 AM: Compacting Workspace - Defragmentation finished in 00:00:00.2461126, database size: 536576
+[Info] 01/25/2021 12:35:31 AM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0363732, database size: 536576
+[Info] 01/25/2021 12:35:31 AM: Compacting finished
+[Info] 01/25/2021 12:35:32 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 01/25/2021 12:35:33 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 01/25/2021 12:35:34 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 01/25/2021 12:35:35 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 01/25/2021 12:35:36 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]

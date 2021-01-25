@@ -1,0 +1,4 @@
+[3] 12:17:00 AM: Log started for 'C:\ProgramData\Tosca_Projects\Tosca_Workspaces\TestGitTosca\TestGitTosca.tws'
+[3] 12:17:00 AM: Log level: 4
+[3] 12:17:00 AM: Release: 13.1.0.31951
+[4] 12:17:00 AM:  ShowStatusInfo: 'Creating new Workspace to existing Common!'
